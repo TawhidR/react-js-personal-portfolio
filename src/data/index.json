@@ -4,74 +4,41 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I specialize in building responsive and dynamic user interfaces using modern technologies like React, ensuring an intuitive and engaging experience."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "From building robust APIs to managing databases, I excel at creating scalable and secure server-side systems with Express.js and Python frameworks."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Crafting user-centered designs that balance aesthetics and functionality is my passion. I design user-centered layouts that are both functional and visually appealing."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Leveraging Webflow, I can create and deploy responsive websites with stunning visuals and functionality. This allows me to turn complex ideas into professional websites."
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/file (4).png",
+      "title": "Ai Web Scraper",
+      "description": "This web scraper utilizes AI-powered technology from Ollama to intelligently gather and analyze data from websites. Designed to streamline the data extraction process, it automatically identifies and captures relevant content based on user-defined parameters. The scraper can handle various website structures and formats, providing structured data for further analysis. Ideal for users who need to efficiently collect large volumes of information without manual effort, the AI-enhanced capabilities ensure high accuracy and adaptability in data collection tasks.",
+      "link": "https://github.com/TawhidR/AI-WebScraper"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
-    },
-    {
-      "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
-    }
-  ],
-  "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
-    },
-    {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "src": "./img/movieapp.PNG",
+      "title": "Movie App",
+      "description": "This movie app leverages React for a dynamic and responsive user interface, combined with an external API to fetch up-to-date movie data. Users can browse through a wide selection of movies, view detailed information like ratings, plot summaries, and release dates, and discover popular titles in real-time. The app is designed for an intuitive user experience, featuring search functionality, filtering options, and a clean layout. With API integration, the app ensures that movie data is always current, providing a seamless way for movie enthusiasts to stay informed about the latest releases.",
+      "link": "https://github.com/TawhidR/react-movie-app"
     }
   ]
 }
